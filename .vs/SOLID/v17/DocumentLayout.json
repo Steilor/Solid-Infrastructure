@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steil\\source\\repos\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\class\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\class\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\class\\saladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\class\\saladorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\class\\riceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\class\\riceorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\implementation\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\implementation\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\4- d\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:4- d\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\0- s\\orderservice\\class\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:0- s\\orderservice\\class\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\interfaces\\iordersalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\interfaces\\iordersalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\interfaces\\iorderrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\interfaces\\iorderrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\interfaces\\iorderbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\interfaces\\iorderbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\4- d\\interface\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:4- d\\interface\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\class\\flyingvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\class\\flyingvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\implementation\\flyingbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\implementation\\flyingbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\4- d\\logservices\\datadogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:4- d\\logservices\\datadogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\3- i\\class\\breadorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:3- i\\class\\breadorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\implementation\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\implementation\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\4- d\\logservices\\anyothermonitoringservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:4- d\\logservices\\anyothermonitoringservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|c:\\users\\steil\\source\\repos\\solid\\2- l\\principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FBFD40-F9E1-40B7-A334-59CEB42D24B0}|SOLID.csproj|solutionrelative:2- l\\principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderBread.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderBread.cs",
+              "RelativeDocumentMoniker": "3- I\\Interfaces\\IOrderBread.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderBread.cs",
+              "RelativeToolTip": "3- I\\Interfaces\\IOrderBread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:05:04.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRice.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderRice.cs",
+              "RelativeDocumentMoniker": "3- I\\Interfaces\\IOrderRice.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderRice.cs",
+              "RelativeToolTip": "3- I\\Interfaces\\IOrderRice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:05:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderSalad.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderSalad.cs",
+              "RelativeDocumentMoniker": "3- I\\Interfaces\\IOrderSalad.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Interfaces\\IOrderSalad.cs",
+              "RelativeToolTip": "3- I\\Interfaces\\IOrderSalad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:01:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\0- S\\OrderService\\Class\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "0- S\\OrderService\\Class\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\0- S\\OrderService\\Class\\OrderRepository.cs",
+              "RelativeToolTip": "0- S\\OrderService\\Class\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:19:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\OrderService.cs",
+              "RelativeDocumentMoniker": "4- D\\OrderService.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\OrderService.cs",
+              "RelativeToolTip": "4- D\\OrderService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:49:58.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\Plane.cs",
+              "RelativeDocumentMoniker": "2- L\\Implementation\\Plane.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\Plane.cs",
+              "RelativeToolTip": "2- L\\Implementation\\Plane.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:08:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principle.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Principle.cs",
+              "RelativeDocumentMoniker": "3- I\\Principle.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Principle.cs",
+              "RelativeToolTip": "3- I\\Principle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:00:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:58:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RiceOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\RiceOrderService.cs",
+              "RelativeDocumentMoniker": "3- I\\Class\\RiceOrderService.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\RiceOrderService.cs",
+              "RelativeToolTip": "3- I\\Class\\RiceOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:07:08.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaladOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\SaladOrderService.cs",
+              "RelativeDocumentMoniker": "3- I\\Class\\SaladOrderService.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\SaladOrderService.cs",
+              "RelativeToolTip": "3- I\\Class\\SaladOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:07:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Class\\Vehicle.cs",
+              "RelativeDocumentMoniker": "2- L\\Class\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Class\\Vehicle.cs",
+              "RelativeToolTip": "2- L\\Class\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:55:49.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventNotification.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\Interface\\IEventNotification.cs",
+              "RelativeDocumentMoniker": "4- D\\Interface\\IEventNotification.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\Interface\\IEventNotification.cs",
+              "RelativeToolTip": "4- D\\Interface\\IEventNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:50:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlyingVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Class\\FlyingVehicle.cs",
+              "RelativeDocumentMoniker": "2- L\\Class\\FlyingVehicle.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Class\\FlyingVehicle.cs",
+              "RelativeToolTip": "2- L\\Class\\FlyingVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:00:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlyingBike.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\FlyingBike.cs",
+              "RelativeDocumentMoniker": "2- L\\Implementation\\FlyingBike.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\FlyingBike.cs",
+              "RelativeToolTip": "2- L\\Implementation\\FlyingBike.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:54:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataDogService.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\LogServices\\DataDogService.cs",
+              "RelativeDocumentMoniker": "4- D\\LogServices\\DataDogService.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\LogServices\\DataDogService.cs",
+              "RelativeToolTip": "4- D\\LogServices\\DataDogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:53:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BreadOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\BreadOrderService.cs",
+              "RelativeDocumentMoniker": "3- I\\Class\\BreadOrderService.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\3- I\\Class\\BreadOrderService.cs",
+              "RelativeToolTip": "3- I\\Class\\BreadOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:09:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\Bike.cs",
+              "RelativeDocumentMoniker": "2- L\\Implementation\\Bike.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Implementation\\Bike.cs",
+              "RelativeToolTip": "2- L\\Implementation\\Bike.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:06:26.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnyOtherMonitoringServices.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\LogServices\\AnyOtherMonitoringServices.cs",
+              "RelativeDocumentMoniker": "4- D\\LogServices\\AnyOtherMonitoringServices.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\4- D\\LogServices\\AnyOtherMonitoringServices.cs",
+              "RelativeToolTip": "4- D\\LogServices\\AnyOtherMonitoringServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:54:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Principle.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Principle.cs",
+              "RelativeDocumentMoniker": "2- L\\Principle.cs",
+              "ToolTip": "C:\\Users\\steil\\source\\repos\\SOLID\\2- L\\Principle.cs",
+              "RelativeToolTip": "2- L\\Principle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:12:14.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
